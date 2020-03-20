@@ -57,7 +57,7 @@
       <div class="container">
         <h1>¡Bienvenidos al Curso de GIT!</h1>
         <p>En este apartado describiremos de manera breve el curso de GIT.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Aprende mucho mas aqui &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Aprende mucho mas aquí &raquo;</a></p>
       </div>
     </div>
 
@@ -65,19 +65,19 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Como trabajar con GIT?</h2>
+          <h2>Cómo trabajar con GIT?</h2>
           <p>Para aprender a trabajar con GIT...</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#" role="button">Presiona aquí. &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Tips para control de versiones</h2>
           <p>Descubre nuevas formas de controlar tus versiones.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#" role="button">Presiona aquí. &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Datos de Interés</h2>
           <p>Para endender más, únete a la comunidad GitHub https://github.com/</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#" role="button">Presiona aquí. &raquo;</a></p>
         </div>
       </div>
 
